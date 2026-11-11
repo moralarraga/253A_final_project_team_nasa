@@ -1,0 +1,1 @@
+export const CENTERS={JSC:'Johnson Space Center',GSFC:'Goddard Space Flight Center',JPL:'Jet Propulsion Laboratory',KSC:'Kennedy Space Center',MSFC:'Marshall Space Flight Center',ARC:'Ames Research Center',HQ:'NASA Headquarters',GRC:'Glenn Research Center',LARC:'Langley Research Center',AFRC:'Armstrong Flight Research Center',SSC:'Stennis Space Center'};

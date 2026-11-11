@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/nasa-img/:path*","destination":"https://images-assets.nasa.gov/:path*"}]}
